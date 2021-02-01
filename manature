@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8" />
+<title>acceuil</title>
+ <link rel="stylesheet" type="text/css" href="style2.css" >
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+   </head>
+     <body> 
+	 <header>
+<div  class="men">	
+ <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+	 <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+	 <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul>
+	</div>
+	<div class="centercolumn">
+        		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+        	</div><!-- .centercolumn -->
+</header>
+	<div class="container">
+ <div class="row">
+ <div class="col-sm-6">
+ 
+ <img class="picture"
+     src="img2.jpg"
+     alt=""/>
+	 <form submit="nom fonction(object" action"../" methode="post">
+		  <fieldset>
+                 <legend>formulaire d'identification</legend>
+                <div>
+				     <label>NOM:</label>
+					<p> <input type ="text" name ="user_name" placeholder="saisir votre nom"></p>
+                </div>
+				<div>
+				    <label>PRENOM:</label>
+					<p><input type="text" name="user_prénom" placeholder ="Saisir votre prénom"/></p>
+                </div>
+				<div>
+				<label>Email:</label>
+				<p><input type="mail" name="user_mail" placeholder="saisir votre mail"/></p>
+				</div>
+				<div>
+				     <label>PASSWORD:</label>
+					      <p><input type="password" name="pass" placeholder="mot de passe"></p>
+				</div>
+			
+				 
+               </fieldset>
+			     </form>
+
+ </div>
+  <div class="col-sm-6">
+ <h3>Qu’est-ce que la nature ?</h3> 
+	<p> Peu d’encyclopédies possèdent un article « nature ». Celle de Diderot et d’Alembert, en 1751, se méfiait déjà de « ce terme assez vague, souvent employé, mais bien peu défini, dont les philosophes n’abusent que trop », et Buffon, qui était chargé de la rédiger, abandonna bien vite le projet. Il fut remplacé en urgence par d’Alembert et de Jaucourt, qui se contentèrent de fournir un timide catalogue de « ses différents sens [qui] sont en si grand nombre, qu’un auteur en compte jusqu’à 14 ou 15 », article essentiellement constitué de renvois vers des termes jugés plus satisfaisants quoique hétéroclites, comme « Système du monde », « Cause », « Essence », « Providence » et même « Dieu » (Figure 1).
+Aujourd’hui encore, les encyclopédies spécialisées semblent éviter consciencieusement le concept de « nature » : c’est par exemple le cas notable de l’Oxford Dictionary of Science (2005), mais aussi de l’Encyclopedia of environmental ethics and philosophy (2008). Le Dictionnaire Encyclopédique de l’écologie et des sciences de l’environnement lui accorde trois lignes qui ne disent pas grand-chose, et le Dictionnaire de la pensée écologique (2015) prend pour sa part la précaution de spécifier ses articles (« nature en philosophie », « nature ordinaire »), contournant ainsi soigneusement l’idée de nature dans l’absolu – ce qui n’empêche pourtant pas son emploi dans de nombreux articles. Même constat du côté des philosophes : la nature ne figure pas parmi les « grandes notions de la philosophie » des principaux manuels universitaires, n’a jamais été au programme d’aucun examen ou concours français, et l’un des rares manuels à l’aborder, le Vocabulaire technique et critique de la philosophie d’André Lalande (régulièrement mis à jour depuis 1902) imite d’Alembert en recommandant aux penseurs rigoureux d’éviter l’usage de ce mot qui peut signifier tout et son contraire. Le terme est en outre ouvertement contourné par de nombreux scientifiques, qui lui préfèrent des hyponymes mieux définis et surtout mesurables – car à l’âge moderne il n’est plus de science sans mesure –, comme « biosphère », « biodiversité », « biocénose », « écosystèmes » et autres « physicalités » chez les anthropologues. 
+.</p>  
+	</div> 
+	 
+	  
+	</div> 
+	</div>
+	<br><br>
+	<hr></hr>
+	
+	<div class="container">
+ <div class="row">
+ <div class="col-sm-3">
+	<h4>les oiseaux d'afrique</h4>
+	<img class="picture"
+     src="img2.jpg"
+     alt=""/> 
+ </div>
+  <div class="col-sm-3">
+ 
+	<h4>une beauté rare</h4> 
+	<img class="picture"
+     src="img2.jpg"
+     alt=""/> 
+	</div> 
+	<div class="col-sm-3">
+ <h4>aimons la nature</h4>
+ <img class="picture"
+     src="img2.jpg"
+     alt=""/> 
+ </div>
+  <div class="col-sm-3">
+ <h4>le petit oiseau</h4>
+	<img class="picture"
+     src="img2.jpg"
+     alt=""/> 
+	</div> 
+	<br><br>
+	
+	<center><h2>tableau récapitulatif des animeau présent dans le parc</h2></center>
+	<div class="row">
+ <div class="col-sm-12">
+<TABLE border width=90%>
+<TR><TD><br><br></TD><TD>les reptiles</TD>
+    <TD>les herbivores</TD> <TD>les carnivores</TD> </TR>
+
+<TR valign=top> <TD><BR><br></TD> <TD></TD>
+    <TD align=center></TD> <TD></TD> </TR>
+
+<TR valign=bottom> <TD><BR><br></TD> <TD></TD> 
+    <TD></TD> <TD valign=top></TD> </TR>
+
+<TR align=right> <TD><BR><br></TD> <TD align=top></TD> 
+    <TD></TD> <TD valign=bottom></TD> </TR>
+</TABLE>
+
+ </div> 
+</div> 
+	</div>
+	<HR>
+	<div class="article">
+	<article>
+    <h1>aimez la nature</h1>
+    <ol>
+        <li>Grow a long, majestic beard.</li>
+        <li>Wear a tall, pointed hat.</li>
+        <li>Have I mentioned the beard?</li>
+    </ol>
+    </div> 
+        <p>© 228 ici c'est togo</p>
+		
+		 <button onclick="#">Cliquez Ici</button>
+    </article>
+</div>
+</div> 	
+	
+	 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+ </body>
+ </html>
